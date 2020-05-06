@@ -992,51 +992,51 @@ blockquote {
     margin-left: 35px;
   }
 }
-.cid-rYcqEMoD35 {
+.cid-rYcLzz5MSX {
   overflow: hidden;
-  padding-top: 1rem;
+  padding-top: 2rem;
   padding-bottom: 1rem;
   background-color: #ffffff;
 }
-.cid-rYcqEMoD35 .container,
-.cid-rYcqEMoD35 .container-fluid {
+.cid-rYcLzz5MSX .container,
+.cid-rYcLzz5MSX .container-fluid {
   pointer-events: none;
 }
-.cid-rYcqEMoD35 .icon__wrap,
-.cid-rYcqEMoD35 .mbr-section-title,
-.cid-rYcqEMoD35 .mbr-text,
-.cid-rYcqEMoD35 .items__block,
-.cid-rYcqEMoD35 .mbr-section-btn,
-.cid-rYcqEMoD35 .image {
+.cid-rYcLzz5MSX .icon__wrap,
+.cid-rYcLzz5MSX .mbr-section-title,
+.cid-rYcLzz5MSX .mbr-text,
+.cid-rYcLzz5MSX .items__block,
+.cid-rYcLzz5MSX .mbr-section-btn,
+.cid-rYcLzz5MSX .image {
   pointer-events: all;
 }
-.cid-rYcqEMoD35 .image {
+.cid-rYcLzz5MSX .image {
   text-align: center;
 }
-.cid-rYcqEMoD35 .image img {
-  max-height: 600px;
-  width: 70%;
+.cid-rYcLzz5MSX .image img {
+  max-height: 400px;
+  width: 50%;
   object-fit: cover;
 }
-.cid-rYcqEMoD35 .mbr-section-title {
+.cid-rYcLzz5MSX .mbr-section-title {
   color: #233d63;
   margin-bottom: 40px;
 }
-.cid-rYcqEMoD35 .mbr-text {
+.cid-rYcLzz5MSX .mbr-text {
   margin-bottom: 40px;
 }
-.cid-rYcqEMoD35 .items__block .item .mbr-iconfont {
+.cid-rYcLzz5MSX .items__block .item .mbr-iconfont {
   color: #ff6400;
   margin-right: 10px;
   font-size: 14px;
 }
-.cid-rYcqEMoD35 .mbr-section-btn {
+.cid-rYcLzz5MSX .mbr-section-btn {
   margin-top: 55px;
 }
-.cid-rYcqEMoD35 .icon__block {
-  background: linear-gradient(135deg, rgba(23, 57, 158, 0.54) 0%, rgba(23, 57, 158, 0.85) 60%, #17399e 100%);
+.cid-rYcLzz5MSX .icon__block {
+  background: linear-gradient(135deg, rgba(32, 107, 239, 0.54) 0%, rgba(32, 107, 239, 0.85) 60%, #206bef 100%);
 }
-.cid-rYcqEMoD35 .animation__background .quadr {
+.cid-rYcLzz5MSX .animation__background .quadr {
   position: absolute;
   bottom: 36%;
   right: 23%;
@@ -1044,7 +1044,7 @@ blockquote {
   width: 60px;
   height: 60px;
 }
-.cid-rYcqEMoD35 .animation__background .circle1 {
+.cid-rYcLzz5MSX .animation__background .circle1 {
   display: inline-block;
   width: 15px;
   height: 15px;
@@ -1055,7 +1055,7 @@ blockquote {
   position: absolute;
   animation: animationTwo 25s infinite linear;
 }
-.cid-rYcqEMoD35 .animation__background .circle2 {
+.cid-rYcLzz5MSX .animation__background .circle2 {
   display: inline-block;
   width: 10px;
   height: 10px;
@@ -1066,7 +1066,7 @@ blockquote {
   background-color: #ff6400;
   animation: animationOne 30s infinite linear;
 }
-.cid-rYcqEMoD35 .animation__background .circle3 {
+.cid-rYcLzz5MSX .animation__background .circle3 {
   display: inline-block;
   width: 10px;
   height: 10px;
@@ -1077,7 +1077,7 @@ blockquote {
   background-color: #c647fe;
   animation: animationTwo 30s infinite linear;
 }
-.cid-rYcqEMoD35 .animation__background .circle4 {
+.cid-rYcLzz5MSX .animation__background .circle4 {
   display: inline-block;
   width: 15px;
   height: 15px;
@@ -1088,7 +1088,221 @@ blockquote {
   background-color: #f9db51;
   animation: animationOne 25s infinite linear;
 }
-.cid-rYcqEMoD35 .animation__background .circle5 {
+.cid-rYcLzz5MSX .animation__background .circle5 {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  right: 40%;
+  bottom: 15%;
+  position: absolute;
+  border-radius: 50%;
+  background-color: #273769;
+  animation: animationTwo 25s infinite linear;
+}
+.cid-rYcLFFdPfI {
+  overflow: hidden;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #ffffff;
+}
+.cid-rYcLFFdPfI .container,
+.cid-rYcLFFdPfI .container-fluid {
+  pointer-events: none;
+}
+.cid-rYcLFFdPfI .icon__wrap,
+.cid-rYcLFFdPfI .mbr-section-title,
+.cid-rYcLFFdPfI .mbr-text,
+.cid-rYcLFFdPfI .items__block,
+.cid-rYcLFFdPfI .mbr-section-btn,
+.cid-rYcLFFdPfI .image {
+  pointer-events: all;
+}
+.cid-rYcLFFdPfI .image {
+  text-align: center;
+}
+.cid-rYcLFFdPfI .image img {
+  max-height: 400px;
+  width: 50%;
+  object-fit: cover;
+}
+.cid-rYcLFFdPfI .mbr-section-title {
+  color: #233d63;
+  margin-bottom: 40px;
+}
+.cid-rYcLFFdPfI .mbr-text {
+  margin-bottom: 40px;
+}
+.cid-rYcLFFdPfI .items__block .item .mbr-iconfont {
+  color: #ff6400;
+  margin-right: 10px;
+  font-size: 14px;
+}
+.cid-rYcLFFdPfI .mbr-section-btn {
+  margin-top: 55px;
+}
+.cid-rYcLFFdPfI .icon__block {
+  background: linear-gradient(135deg, rgba(65, 239, 186, 0.54) 0%, rgba(65, 239, 186, 0.85) 60%, #41efba 100%);
+}
+.cid-rYcLFFdPfI .animation__background .quadr {
+  position: absolute;
+  bottom: 36%;
+  right: 23%;
+  animation: animationOne 40s infinite linear;
+  width: 60px;
+  height: 60px;
+}
+.cid-rYcLFFdPfI .animation__background .circle1 {
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  top: 2%;
+  left: 32%;
+  border-radius: 50%;
+  background: #f47b5b;
+  position: absolute;
+  animation: animationTwo 25s infinite linear;
+}
+.cid-rYcLFFdPfI .animation__background .circle2 {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  left: 6%;
+  top: 42%;
+  position: absolute;
+  border-radius: 50%;
+  background-color: #ff6400;
+  animation: animationOne 30s infinite linear;
+}
+.cid-rYcLFFdPfI .animation__background .circle3 {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  left: 6%;
+  bottom: 130px;
+  position: absolute;
+  border-radius: 50%;
+  background-color: #c647fe;
+  animation: animationTwo 30s infinite linear;
+}
+.cid-rYcLFFdPfI .animation__background .circle4 {
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  right: 12%;
+  top: 23%;
+  position: absolute;
+  border-radius: 50%;
+  background-color: #f9db51;
+  animation: animationOne 25s infinite linear;
+}
+.cid-rYcLFFdPfI .animation__background .circle5 {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  right: 40%;
+  bottom: 15%;
+  position: absolute;
+  border-radius: 50%;
+  background-color: #273769;
+  animation: animationTwo 25s infinite linear;
+}
+.cid-rYd2lIRFui {
+  overflow: hidden;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #ffffff;
+}
+.cid-rYd2lIRFui .container,
+.cid-rYd2lIRFui .container-fluid {
+  pointer-events: none;
+}
+.cid-rYd2lIRFui .icon__wrap,
+.cid-rYd2lIRFui .mbr-section-title,
+.cid-rYd2lIRFui .mbr-text,
+.cid-rYd2lIRFui .items__block,
+.cid-rYd2lIRFui .mbr-section-btn,
+.cid-rYd2lIRFui .image {
+  pointer-events: all;
+}
+.cid-rYd2lIRFui .image {
+  text-align: center;
+}
+.cid-rYd2lIRFui .image img {
+  max-height: 400px;
+  width: 50%;
+  object-fit: cover;
+}
+.cid-rYd2lIRFui .mbr-section-title {
+  color: #233d63;
+  margin-bottom: 40px;
+}
+.cid-rYd2lIRFui .mbr-text {
+  margin-bottom: 40px;
+}
+.cid-rYd2lIRFui .items__block .item .mbr-iconfont {
+  color: #ff6400;
+  margin-right: 10px;
+  font-size: 14px;
+}
+.cid-rYd2lIRFui .mbr-section-btn {
+  margin-top: 55px;
+}
+.cid-rYd2lIRFui .icon__block {
+  background: linear-gradient(135deg, rgba(158, 139, 23, 0.54) 0%, rgba(158, 139, 23, 0.85) 60%, #9e8b17 100%);
+}
+.cid-rYd2lIRFui .animation__background .quadr {
+  position: absolute;
+  bottom: 36%;
+  right: 23%;
+  animation: animationOne 40s infinite linear;
+  width: 60px;
+  height: 60px;
+}
+.cid-rYd2lIRFui .animation__background .circle1 {
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  top: 2%;
+  left: 32%;
+  border-radius: 50%;
+  background: #f47b5b;
+  position: absolute;
+  animation: animationTwo 25s infinite linear;
+}
+.cid-rYd2lIRFui .animation__background .circle2 {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  left: 6%;
+  top: 42%;
+  position: absolute;
+  border-radius: 50%;
+  background-color: #ff6400;
+  animation: animationOne 30s infinite linear;
+}
+.cid-rYd2lIRFui .animation__background .circle3 {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  left: 6%;
+  bottom: 130px;
+  position: absolute;
+  border-radius: 50%;
+  background-color: #c647fe;
+  animation: animationTwo 30s infinite linear;
+}
+.cid-rYd2lIRFui .animation__background .circle4 {
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  right: 12%;
+  top: 23%;
+  position: absolute;
+  border-radius: 50%;
+  background-color: #f9db51;
+  animation: animationOne 25s infinite linear;
+}
+.cid-rYd2lIRFui .animation__background .circle5 {
   display: inline-block;
   width: 10px;
   height: 10px;
