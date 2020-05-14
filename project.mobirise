@@ -38,7 +38,13 @@
     "path": "@PROJECT_PATH@",
     "name": "Site-05-05_1746",
     "versionFirst": "4.12.2",
-    "siteFonts": [],
+    "siteFonts": [
+      {
+        "css": "'Heebo', sans-serif",
+        "name": "Heebo",
+        "url": "https://fonts.googleapis.com/css?family=Heebo:100,200,300,400,500,600,700,800,900"
+      }
+    ],
     "imageResize": true,
     "uniqCompNum": 25,
     "versionPublish": "4.12.3",
